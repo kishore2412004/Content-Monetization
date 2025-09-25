@@ -1,0 +1,39 @@
+# .venv
+# env
+# __pycache__
+
+    
+# .ipynb_checkpoints
+
+# data
+*.csv
+*.pkl
+*.png
+
+# misc
+.DS_Store
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/                        
