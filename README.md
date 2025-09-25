@@ -1,4 +1,6 @@
 # Content Monetization Modeler: A Predictive Dashboard for YouTube Ad Revenue
+![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)
+
 
 This repository contains the source code for a comprehensive machine learning and data analysis project designed to forecast YouTube ad revenue. The project develops and evaluates a suite of five distinct regression models, which are deployed within a professionally styled, interactive dashboard built using the Streamlit framework.
 
